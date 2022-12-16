@@ -1,5 +1,9 @@
 # Estimation-of-Tropospheric-Ozone
 
+Contributors : Ambrish Abhijnan, Javal Vyas, Parth Patel, Riddhesh Kumtakar, Sergio Bugosen
+
+TA co-ordinator : Achu Wilson
+
 Ozone has been one of the crucial gases in the atmosphere but while stratospheric ozone is essential for protecting us from the UV rays on the other hand the tropospheric ozone is the major pollutant and a cause for lung disease. 
 
 Estimate of Tropospheric Ozone is done by using the AQ-bench dataset which is a cleaned dataset. It has data 5577 records from different parts of the world from 2010 to 2014. This has been the benchmark model which we build up. 
