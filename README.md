@@ -9,7 +9,9 @@ We used the modes of feature engineering and made the features more related to t
 On the machine learning front we used to ensemble methods to fit the model better. We used the voting regressor with the SVR and the gradient boosting regressor as the voters. 
 
 The below figures show the performance of the models with and without feature engineering
+
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/73403218/208025348-49253788-4586-43d9-9e47-bd4bf696d8fa.png">
 
 The below figure shows how models perform on the data after feature engineering is done.
+
 <img width="239" alt="image" src="https://user-images.githubusercontent.com/73403218/208024914-8c8ef85d-0c30-4ae8-9f5a-4fa8dbb0ca6f.png">
